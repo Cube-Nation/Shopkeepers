@@ -54,9 +54,9 @@
 	</profiles>
 
 	<scm>
-		<connection>scm:git:git://github.com/nisovin/Shopkeepers.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/nisovin/Shopkeepers.git</developerConnection>
-		<url>https://github.com/nisovin/Shopkeepers</url>
+		<connection>scm:git:git://github.com/Cube-Nation/Shopkeepers.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/Cube-Nation/Shopkeepers.git</developerConnection>
+		<url>https://github.com/Cube-Nation/Shopkeepers</url>
 	</scm>
 
 	<repositories>
